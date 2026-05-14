@@ -1,0 +1,104 @@
+tournament_key,tournament_name,tournament_category,is_knockout,is_competitive
+1,Friendly,Friendly,False,False
+2,FIFA World Cup qualification,Qualifier,False,True
+3,African Cup of Nations qualification,Qualifier,False,True
+4,Nehru Cup,Other,False,True
+5,Merdeka Tournament,Other,False,True
+6,King's Cup,Other,False,True
+7,UNCAF Cup,Other,False,True
+8,Four Nations Tournament,Other,False,True
+9,CONMEBOL–UEFA Cup of Champions,Other,False,True
+10,Copa Paz del Chaco,Other,False,True
+11,Kirin Cup,Other,False,True
+12,CFU Caribbean Cup qualification,Qualifier,False,True
+13,East Asian Games,Other,False,True
+14,CFU Caribbean Cup,Other,False,True
+15,USA Cup,Other,False,True
+16,Southeast Asian Games,Other,False,True
+17,Copa América,Continental,True,True
+18,Korea Cup,Other,False,True
+19,Baltic Cup,Other,False,True
+20,Gold Cup,Continental,True,True
+21,Indian Ocean Island Games,Other,False,True
+22,Amílcar Cabral Cup,Other,False,True
+23,South Pacific Mini Games,Other,False,True
+24,South Asian Games,Other,False,True
+25,United Arab Emirates Friendship Tournament,Other,False,True
+26,Malta International Tournament,Other,False,True
+27,Lunar New Year Cup,Other,False,True
+28,Joe Robbie Cup,Other,False,True
+29,African Cup of Nations,Continental,True,True
+30,UEFA Euro qualification,Qualifier,False,True
+31,Miami Cup,Other,False,True
+32,FIFA World Cup,FIFA World Cup,True,True
+33,Melanesia Cup,Other,False,True
+34,Asian Games,Other,False,True
+35,Gulf Cup,Other,False,True
+36,Simba Tournament,Other,False,True
+37,CECAFA Cup,Other,False,True
+38,Confederations Cup,Confederations Cup,True,True
+39,Dynasty Cup,Other,False,True
+40,SAFF Cup,Other,False,True
+41,South Pacific Games,Other,False,True
+42,Trans-Tasman Cup,Other,False,True
+43,Oceania Nations Cup,Continental,True,True
+44,Windward Islands Tournament,Other,False,True
+45,AFC Asian Cup qualification,Qualifier,False,True
+46,UEFA Euro,Continental,True,True
+47,AFF Championship,Other,False,True
+48,AFC Asian Cup,Continental,True,True
+49,King Hassan II Tournament,Other,False,True
+50,Cyprus International Tournament,Other,False,True
+51,Dunhill Cup,Other,False,True
+52,COSAFA Cup qualification,Qualifier,False,True
+53,COSAFA Cup,Other,False,True
+54,Tournoi de France,Other,False,True
+55,Gold Cup qualification,Qualifier,False,True
+56,AFF Championship qualification,Qualifier,False,True
+57,SKN Football Festival,Other,False,True
+58,Arab Cup qualification,Qualifier,False,True
+59,Oceania Nations Cup qualification,Qualifier,False,True
+60,Arab Cup,Other,False,True
+61,Four Nations' Cup,Other,False,True
+62,UNIFFAC Cup,Other,False,True
+63,Nordic Championship,Other,False,True
+64,WAFF Championship,Other,False,True
+65,Millennium Cup,Other,False,True
+66,Cup of Ancient Civilizations,Other,False,True
+67,Prime Minister's Cup,Other,False,True
+68,Unity Cup,Other,False,True
+69,The Other Final,Other,False,True
+70,EAFF Championship,Other,False,True
+71,TIFOCO Tournament,Other,False,True
+72,Afro-Asian Games,Other,False,True
+73,AFC Challenge Cup,Other,False,True
+74,Copa del Pacífico,Other,False,True
+75,AFC Challenge Cup qualification,Qualifier,False,True
+76,Coupe de l'Outre-Mer,Other,False,True
+77,VFF Cup,Other,False,True
+78,Corsica Cup,Other,False,True
+79,Dragon Cup,Other,False,True
+80,Nile Basin Tournament,Other,False,True
+81,Nations Cup,Other,False,True
+82,Copa Confraternidad,Other,False,True
+83,Pacific Games,Other,False,True
+84,Superclásico de las Américas,Other,False,True
+85,ABCS Tournament,Other,False,True
+86,Kirin Challenge Cup,Other,False,True
+87,OSN Cup,Other,False,True
+88,Copa América qualification,Qualifier,False,True
+89,Pacific Mini Games,Other,False,True
+90,Intercontinental Cup,Other,False,True
+91,UEFA Nations League,Nations League,False,True
+92,CONCACAF Nations League qualification,Qualifier,False,True
+93,CONCACAF Nations League,Nations League,False,True
+94,Three Nations Cup,Other,False,True
+95,Mahinda Rajapaksa Cup,Other,False,True
+96,Navruz Cup,Other,False,True
+97,MSG Prime Minister's Cup,Other,False,True
+98,Jordan International Tournament,Other,False,True
+99,Tri Nation Tournament,Other,False,True
+100,CAFA Nations Cup,Other,False,True
+101,Mauritius Four Nations Cup,Other,False,True
+102,Soccer Ashes,Other,False,True
+103,FIFA Series,Other,False,True

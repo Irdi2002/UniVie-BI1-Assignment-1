@@ -1,0 +1,4 @@
+match_context_key,context,description
+1,home,Match played at the home team's country
+2,other_host,"Match not marked neutral, but host country differs from the mapped home team"
+3,neutral,Match played at a neutral venue (typical for tournaments)
