@@ -4,9 +4,6 @@ Reusable functions for the international football BI pipeline.
 Each function does one thing. Each function has a docstring explaining what it
 does, what it expects as input, and what it returns. Read these before reading
 main.py.
-
-Authors: <add your group names here>
-Course: Business Intelligence 1, University of Vienna, Summer 2026
 """
 from __future__ import annotations
 
@@ -66,14 +63,6 @@ def categorize_tournament(name: str) -> str:
 
 
 def is_knockout_tournament(name: str) -> bool:
-    """Heuristic: is this match part of a knockout tournament stage?
-
-    Friendlies, qualifiers, and league-format tournaments (Nations League) are
-    NOT knockouts. Major tournaments (World Cup, continental cups, Confeds Cup)
-    include both group and knockout stages — without per-match stage labels we
-    treat the whole tournament as 'knockout-eligible'. Document this limitation
-    in the slides — it's a real caveat for Q1 interpretation.
-    """
     category = categorize_tournament(name)
     return category in {"FIFA World Cup", "Continental", "Confederations Cup"}
 
